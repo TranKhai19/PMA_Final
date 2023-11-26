@@ -1,0 +1,44 @@
+{
+    "abc": [
+        {
+            "product_name": "tủ lạnh",
+            "month": "2023-11",
+            "sum": 30900.648882480175
+        },
+        {
+            "product_name": "tủ lạnh",
+            "month": "2023-06",
+            "sum": 30900.05397301349
+        },
+        {
+            "product_name": "viên thuốc",
+            "month": "2023-12",
+            "sum": 5149.248514505418
+        },
+        {
+            "product_name": "máy tính",
+            "month": "2023-11",
+            "sum": 25741.737771902415
+        },
+        {
+            "product_name": "tai nghe",
+            "month": "2023-08",
+            "sum": 1286.365202411714
+        },
+        {
+            "product_name": "webcam",
+            "month": "2023-10",
+            "sum": 7704.332846715329
+        },
+        {
+            "product_name": "máy tính",
+            "month": "2023-09",
+            "sum": 25672.307326920793
+        },
+        {
+            "product_name": "bàn phím",
+            "month": "2023-12",
+            "sum": 513.1015638625661
+        }
+    ]
+}
